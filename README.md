@@ -1,8 +1,12 @@
+# Overview
+
+This project focuses on predicting the prominent piece of clothing among predefined classes using the Fashion-MNIST dataset. The Convolutional Neural Network (CNN) implemented, based on the LeNet-5 architecture model, demonstrates significant accuracy, achieving 95.08% on the training set and 92.37% on the testing set.
+
 # In order to run this experiment please follow these instructions:
 Please do not create subfolders, as this project has been created using each file from the same repository.
 
 ## (OPTIONAL) How to convert Fashion-MNIST dataset into CSV file
-This step is optional as the converted file are already in the repository. 
+As one of the files is too large to upload directly, you can follow this step:
 From a terminal prompt, please run:
 
 python3 convert.py
